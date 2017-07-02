@@ -1,0 +1,48 @@
+body{
+  background-color: #eaeaea;
+}
+.container{
+  background-color: #000;
+  margin: 100px auto;
+  padding: 50px;
+  width: 80%;
+  max-width: 500px;
+  min-width: 250px;
+  text-align: center;
+  border-radius: 20px;
+}
+.timer{
+  color: #fff;
+  font-size: 4em;
+  display: inline;
+  text-align: center;
+}
+.buttons{
+  text-align: center;
+  margin-top: 20px;
+}
+button{
+  background-color: gray;
+  padding: 10px 25px;
+  display: inline;
+  color: white;
+  font-size: 1.4em;
+  border: none;
+}
+#start{
+  background-color: green;
+}
+#lap{
+
+}
+#stop{
+  background-color: red;
+}
+#reset{
+
+}
+#lap-div{
+  color: #fff;
+  margin-top: 2em;
+  text-align: left;
+}
